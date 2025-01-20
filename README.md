@@ -1,6 +1,6 @@
 # Editor.md
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://img.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg?t=st=1737377883~exp=1737381483~hmac=7ec661285d5250fc717ab522b9a395b07e92e1e2e854ed765498f1ad931cdc59&w=1380)
 
 # Hello, I'm Aysenur 👋
 
