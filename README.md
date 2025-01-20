@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.istockphoto.com/id/1312220520/vector/illustration-of-cute-panda-working-on-laptop.jpg?s=612x612&w=0&k=20&c=1WkEn39zzzplFoDHxGPVrTi06pIbZWKcoG9DyCrhrhA=" align="center" style="width: 700px; height: 400px;" />
+<img src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/0*cgBpC7O2D7Fh4vit.jpg" align="center" style="width: 700px; height: 300px;" />
 </div>
 
   
