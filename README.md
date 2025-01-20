@@ -1,3 +1,7 @@
+# Editor.md
+
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
 # Hello, I'm Aysenur 👋
 
 I'm a passionate **Software Engineer** currently working at **ScadaSU**, with previous experience from an internship at **Sakarya Municipality**. I specialize in creating efficient and scalable software solutions using modern frameworks and technologies.
@@ -30,7 +34,7 @@ I'm a passionate **Software Engineer** currently working at **ScadaSU**, with pr
 
 ### 📫 Get in Touch
 - **LinkedIn**: [www.linkedin.com/in/aysenuryldrm]  
-- **Email**: [aysenuryildiriö01@outlook.com]
+- **Email**: [aysenuryildirim01@outlook.com]
 
 ---
 
