@@ -1,4 +1,7 @@
-<img src="https://www.wallpaperflare.com/black-haired-female-anime-character-animated-character-sitting-on-chair-wallpaper-cjk](https://assets.rbl.ms/25591710/origin.jpg"/>
+<div align="center">
+<img src="https://assets.rbl.ms/25591710/origin.jpg" align="center" style="width: 100,  haight:"60"/>
+</div>  
+  
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
 <h3 align="center">I'm a passionate Software Engineer currently working at ScadaSU, with previous experience from an internship at Sakarya Municipality. I specialize in creating efficient and scalable software solutions using modern frameworks and technologies.</h3>
 
