@@ -1,5 +1,6 @@
+<img src="https://www.wallpaperflare.com/black-haired-female-anime-character-animated-character-sitting-on-chair-wallpaper-cjk"/>
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
-<h3 align="center">I'm a passionate Software Engineer currently working at <h4> ScadaSU </h4>, with previous experience from an internship at Sakarya Municipality. I specialize in creating efficient and scalable software solutions using modern frameworks and technologies.</h3>
+<h3 align="center">I'm a passionate Software Engineer currently working at ScadaSU, with previous experience from an internship at Sakarya Municipality. I specialize in creating efficient and scalable software solutions using modern frameworks and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysenuryldrm&label=Profile%20views&color=0e75b6&style=flat" alt="aysenuryldrm" /> </p>
 
