@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysenuryldrm&label=Profile%20views&color=0e75b6&style=flat" alt="aysenuryldrm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aysenuryldrm" alt="aysenuryldrm" /></a> </p>
-
 - 🔭 I’m currently working at [**ScadaSU**](https://www.scadasu.com/)
 
 - 📫 How to reach me **aysenuryildirim01@outlook.com**
