@@ -10,8 +10,6 @@ I have developed both desktop and web-based applications using technologies like
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysenuryldrm&label=Profile%20views&color=0e75b6&style=flat" alt="aysenuryldrm" /> </p>
 
-- 🔭 I’m currently working at [**ScadaSU**](https://www.scadasu.com/)
-
 - 📫 How to reach me **aysenuryildirim01@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
