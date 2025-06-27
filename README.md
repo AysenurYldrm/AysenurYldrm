@@ -4,7 +4,9 @@
 
   
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
-<h3 align="center">I'm a passionate Software Engineer currently working at ScadaSU, with previous experience from an internship at Sakarya Municipality. I specialize in creating efficient and scalable software solutions using modern frameworks and technologies.</h3>
+<h3 align="center">Hi! I'm Ayşenur Yıldırım, a Computer Engineering graduate. I completed a long-term internship at Sakarya Municipality's Yazılımpark, where I developed projects using .NET and web technologies. Afterwards, I worked as a full-time Software Developer at ScadaSU, gaining valuable experience for nearly a year.
+
+I have developed both desktop and web-based applications using technologies like C#, ASP.NET, and WPF. While some of my work is open source on GitHub, I also have ongoing private projects. Please feel free to contact me for a presentation of these projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysenuryldrm&label=Profile%20views&color=0e75b6&style=flat" alt="aysenuryldrm" /> </p>
 
